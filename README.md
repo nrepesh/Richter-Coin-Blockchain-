@@ -7,3 +7,6 @@ Since 1995, the Richter Memorial Trusts have provided support for students pursu
 Implemented all the functions of a cryptocurrency such as adding transactions, viewing transactions and mining.
 Included security mechanisms of checking previous hash in each block, proof of work and private key signatures.
 Integrated the functionalities to the UI of the final webpage.	
+
+
+Video Link - https://drive.google.com/file/d/1jsAABOVaqO9RXlClTDJX26gJtflmw_No/view
